@@ -2,7 +2,7 @@
  * Shaun Mbateng
  * Stone Wall
  * This program finds the minimum number of blocks needed to build a stone wall given
- * 	a length and multiple height.
+ * 	a length and multiple heights.
  * It has a time complexity of O(N).
  */
 
